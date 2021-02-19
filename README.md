@@ -1,6 +1,6 @@
 # Getting Started with Todo App
 
-This project was build upon React\
+This project was build upon React.\
 Learn Reactjs - (https://reactjs.org)
 
 ### `npm start`
